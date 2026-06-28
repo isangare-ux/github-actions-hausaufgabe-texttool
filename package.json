@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-hausaufgabe-texttool",
+  "version": "1.0.0",
+  "description": "Ein einfaches Node.js Texttool Projekt für eine GitHub Actions Hausaufgabe",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "MIT"
+}
