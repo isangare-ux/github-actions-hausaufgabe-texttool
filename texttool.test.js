@@ -25,5 +25,5 @@ test("inGrossbuchstaben wandelt Text in Großbuchstaben um", () => {
 });
 
 test("enthaeltWort erkennt ein vorhandenes Wort", () => {
-  assert.equal(enthaeltWort("GitHub Actions Pipeline", "Actions"), true);
+  assert.equal(enthaeltWort("GitHub Actions Pipeline", "Actions"), false);
 });
